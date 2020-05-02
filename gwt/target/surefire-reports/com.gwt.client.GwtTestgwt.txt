@@ -1,0 +1,6 @@
+-------------------------------------------------------------------------------
+Test set: com.gwt.client.GwtTestgwt
+-------------------------------------------------------------------------------
+Tests run: 2, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 31.654 sec
+testGreetingService(com.gwt.client.GwtTestgwt)  Time elapsed: 31.493 sec
+testFieldVerifier(com.gwt.client.GwtTestgwt)  Time elapsed: 0.136 sec

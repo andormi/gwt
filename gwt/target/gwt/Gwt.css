@@ -1,0 +1,50 @@
+/** CSS rules here for the application. */
+
+table td{
+	padding:10px;
+}
+
+.textBox{
+	height: 30px;
+	width: 120px;
+}
+
+.enterButton{
+	background-color: blue;
+	border: thin;
+	color: white;
+	font-family: sans-serif;
+	height: 30px;
+	width: 120px;
+}
+
+.sortResButton{
+	background-color: green;
+	border: thin;
+	color: white;
+	font-family: sans-serif; 
+	height: 30px;
+	width: 80px;
+}
+
+.numbButton{
+	background-color: blue;
+	border: thin;
+	color: white;
+	font-family: sans-serif;
+	height: 30px;
+	width: 40px;
+}
+
+.inputQuestionLabel{
+	color: black;
+	font-weight: bold;
+	font-family: sans-serif;
+	font-size: large;
+}
+
+.validInputLabel{
+	color: red;
+	font-family: sans-serif;
+	font-size: medium;
+}
